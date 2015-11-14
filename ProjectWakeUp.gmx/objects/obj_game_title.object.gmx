@@ -25,10 +25,10 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>///Un Petit Aventure
+            <string>///Une Petite Aventure
 draw_set_colour(c_black);
 draw_set_font(TitleFont);
-draw_text(room_width / 2 , room_height / 4, "un petit aventure");
+draw_text(room_width / 2 , room_height / 4, "une petite aventure");
 draw_set_halign(fa_center);
 </string>
           </argument>
