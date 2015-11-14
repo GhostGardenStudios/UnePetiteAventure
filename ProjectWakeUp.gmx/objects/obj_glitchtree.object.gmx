@@ -25,6 +25,27 @@
         <arguments>
           <argument>
             <kind>1</kind>
+            <string>depth = y * -1;
+</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
             <string>image_speed = 0.3
 </string>
           </argument>
@@ -44,9 +65,9 @@
   <PhysicsObjectAwake>-1</PhysicsObjectAwake>
   <PhysicsObjectKinematic>0</PhysicsObjectKinematic>
   <PhysicsShapePoints>
-    <point>16,16</point>
-    <point>160,16</point>
-    <point>160,192</point>
-    <point>16,192</point>
+    <point>73,163</point>
+    <point>111,163</point>
+    <point>111,176</point>
+    <point>73,176</point>
   </PhysicsShapePoints>
 </object>

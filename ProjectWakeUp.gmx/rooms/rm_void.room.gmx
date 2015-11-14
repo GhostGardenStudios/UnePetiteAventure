@@ -155,8 +155,8 @@
     <instance objName="obj_flower1" x="490" y="1274" name="inst_C693827E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_flower1" x="368" y="1282" name="inst_D1F8BAD8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_flower1" x="505" y="1284" name="inst_B55AD5AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_startree" x="324" y="1199" name="inst_C1E2625C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_startree" x="550" y="1199" name="inst_63A215A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_startree" x="328" y="1265" name="inst_C1E2625C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_startree" x="549" y="1267" name="inst_63A215A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_voidsong" x="359" y="92" name="inst_F6706564" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>

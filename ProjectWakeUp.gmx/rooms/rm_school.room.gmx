@@ -53,9 +53,9 @@
   <instances>
     <instance objName="obj_player" x="693" y="172" name="inst_D7BA5F0E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_angler" x="258" y="410" name="inst_612E28E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_chester" x="292" y="430" name="inst_3AEC70F7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_chester" x="289" y="430" name="inst_3AEC70F7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="16" y="372" name="inst_B8A90F5A" locked="0" code="" scaleX="11.25" scaleY="29.25" colour="4294967295" rotation="0"/>
-    <instance objName="obj_cackle" x="325" y="127" name="inst_E76DABBC" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_cackle" x="320" y="138" name="inst_E76DABBC" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="896" y="382" name="inst_5C51094B" locked="0" code="" scaleX="11.25" scaleY="29.25" colour="4294967295" rotation="0"/>
     <instance objName="obj_desk" x="285" y="356" name="inst_20798033" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_desk" x="291" y="223" name="inst_9376095D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -63,7 +63,7 @@
     <instance objName="obj_chalkboard" x="536" y="103" name="inst_E175D10C" locked="0" code="" scaleX="1.5" scaleY="1.49019610881805" colour="4294967295" rotation="0"/>
     <instance objName="obj_bed_school" x="691" y="191" name="inst_89354719" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_schooldoor" x="276" y="108" name="inst_7C45733D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_schoolwall" x="360" y="97" name="inst_5F89DCC8" locked="0" code="" scaleX="1.65499997138977" scaleY="0.870000004768372" colour="4294967295" rotation="0"/>
+    <instance objName="obj_schoolwall" x="362" y="97" name="inst_5F89DCC8" locked="0" code="" scaleX="1.65499997138977" scaleY="0.870000004768372" colour="4294967295" rotation="0"/>
     <instance objName="obj_schoolwall" x="689" y="97" name="inst_60FEE947" locked="0" code="" scaleX="1.65499997138977" scaleY="0.870000004768372" colour="4294967295" rotation="0"/>
     <instance objName="obj_desk" x="285" y="420" name="inst_BF6FD4ED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_desk" x="382" y="225" name="inst_E20FAF56" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

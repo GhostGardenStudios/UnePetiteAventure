@@ -54,7 +54,7 @@
     <instance objName="obj_player" x="584" y="239" name="inst_8D23BD00" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_hospitalboards" x="422" y="184" name="inst_5CAF2D91" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_bed_hospital" x="580" y="248" name="inst_57E90F82" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_table" x="406" y="406" name="inst_5EADCFF2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_table" x="414" y="412" name="inst_5EADCFF2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_chair" x="413" y="352" name="inst_DE2A6CB8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_iv" x="548" y="216" name="inst_889A0878" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_door" x="424" y="177" name="inst_C50D0C05" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -63,7 +63,7 @@
     <instance objName="obj_block" x="900" y="504" name="inst_501C05ED" locked="0" code="" scaleX="14" scaleY="31" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="100" y="376" name="inst_5181D998" locked="0" code="" scaleX="17" scaleY="36" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="356" y="632" name="inst_0631E44A" locked="0" code="" scaleX="34" scaleY="12" colour="4294967295" rotation="0"/>
-    <instance objName="obj_trash" x="459" y="417" name="inst_AAF61359" locked="0" code="" scaleX="2" scaleY="2.08999991416931" colour="4294967295" rotation="0"/>
+    <instance objName="obj_trash" x="458" y="424" name="inst_AAF61359" locked="0" code="" scaleX="2" scaleY="2.08999991416931" colour="4294967295" rotation="0"/>
     <instance objName="obj_dirt" x="420" y="248" name="inst_5528A309" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_dirt" x="516" y="312" name="inst_165B39DD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_dirt" x="516" y="344" name="inst_C3D441CA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
