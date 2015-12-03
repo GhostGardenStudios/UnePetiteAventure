@@ -130,4 +130,3 @@ if (show_dialogue)
        draw_text(300,500,str);     
 
 }
-
