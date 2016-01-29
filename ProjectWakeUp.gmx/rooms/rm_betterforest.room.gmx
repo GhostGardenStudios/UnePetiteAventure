@@ -27,8 +27,8 @@
     <deleteUnderlyingObj>0</deleteUnderlyingObj>
     <deleteUnderlyingTiles>-1</deleteUnderlyingTiles>
     <page>0</page>
-    <xoffset>143</xoffset>
-    <yoffset>578</yoffset>
+    <xoffset>66</xoffset>
+    <yoffset>534</yoffset>
   </makerSettings>
   <backgrounds>
     <background visible="-1" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
@@ -98,14 +98,14 @@
     <instance objName="obj_mazetree" x="905" y="170" name="inst_874DD9E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_tree5" x="1010" y="165" name="inst_EF7D3C4D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_forest_grass" x="365" y="185" name="inst_6C86FA72" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_forest_grass" x="281" y="243" name="inst_9DCB8C79" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_forest_grass" x="285" y="225" name="inst_9DCB8C79" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_forest_grass" x="345" y="275" name="inst_B74C777E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_forest_grass" x="313" y="339" name="inst_3C87DBA0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_forest_grass" x="313" y="307" name="inst_1BEDC619" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_forest_grass" x="409" y="243" name="inst_871CD95C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_forest_grass" x="154" y="273" name="inst_CE465F33" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_forest_grass" x="58" y="271" name="inst_E37A3663" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_forest_grass" x="58" y="229" name="inst_7E75D816" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_forest_grass" x="175" y="210" name="inst_7E75D816" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_forest_grass" x="124" y="307" name="inst_3A068F72" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_forest_grass" x="338" y="332" name="inst_5E719FE1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_forest_grass" x="374" y="354" name="inst_23E4AEA6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -130,7 +130,7 @@
     <instance objName="obj_forest_grass" x="815" y="320" name="inst_EBAE0FFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_forest_grass" x="785" y="348" name="inst_877F8756" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_forest_grass" x="752" y="363" name="inst_ADC61F1B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_forest_grass" x="675" y="320" name="inst_456F26EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_forest_grass" x="720" y="265" name="inst_456F26EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_forest_grass" x="703" y="395" name="inst_11531209" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_forest_grass" x="781" y="421" name="inst_342818F7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_forest_grass" x="670" y="585" name="inst_C6AE6A03" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

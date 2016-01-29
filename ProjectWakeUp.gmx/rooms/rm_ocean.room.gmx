@@ -16,7 +16,7 @@
   <clearDisplayBuffer>-1</clearDisplayBuffer>
   <makerSettings>
     <isSet>-1</isSet>
-    <w>1008</w>
+    <w>1016</w>
     <h>600</h>
     <showGrid>0</showGrid>
     <showObjects>-1</showObjects>
@@ -27,8 +27,8 @@
     <deleteUnderlyingObj>0</deleteUnderlyingObj>
     <deleteUnderlyingTiles>-1</deleteUnderlyingTiles>
     <page>1</page>
-    <xoffset>-162</xoffset>
-    <yoffset>1328</yoffset>
+    <xoffset>162</xoffset>
+    <yoffset>47</yoffset>
   </makerSettings>
   <backgrounds>
     <background visible="-1" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
@@ -85,7 +85,7 @@
     <instance objName="obj_sand" x="223" y="448" name="inst_F99723AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_sand" x="202" y="386" name="inst_7CFF2D22" locked="0" code="" scaleX="0.949999988079071" scaleY="0.980000019073486" colour="4294967295" rotation="0"/>
     <instance objName="obj_sand" x="277" y="406" name="inst_794C5493" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_sand" x="592" y="192" name="inst_2F106A2C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_sand" x="612" y="224" name="inst_2F106A2C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_sand" x="744" y="259" name="inst_55494AE0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_sand" x="688" y="297" name="inst_9A54354B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_sand" x="782" y="214" name="inst_C05C36E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
