@@ -148,6 +148,20 @@
   </fonts>
   <objects name="objects">
     <object>objects\obj_player</object>
+    <objects name="Helper">
+      <objects name="Title Screen">
+        <object>objects\obj_controls</object>
+        <object>objects\obj_game_title</object>
+        <object>objects\obj_title</object>
+      </objects>
+      <objects name="Credits">
+        <object>objects\obj_credits</object>
+      </objects>
+      <object>objects\obj_morn</object>
+      <object>objects\obj_alarm</object>
+      <object>objects\obj_restart</object>
+      <object>objects\obj_extra</object>
+    </objects>
     <objects name="Beds">
       <object>objects\obj_bed_hospital_teleport</object>
       <object>objects\obj_bed_hospital</object>
@@ -240,19 +254,6 @@
       <object>objects\obj_door</object>
       <object>objects\obj_note</object>
       <object>objects\obj_hospitalboards</object>
-    </objects>
-    <objects name="UI">
-      <objects name="Title Screen">
-        <object>objects\obj_controls</object>
-        <object>objects\obj_game_title</object>
-        <object>objects\obj_title</object>
-      </objects>
-      <objects name="Credits">
-        <object>objects\obj_credits</object>
-      </objects>
-      <object>objects\obj_morn</object>
-      <object>objects\obj_alarm</object>
-      <object>objects\obj_restart</object>
     </objects>
     <objects name="Helper Objects">
       <object>objects\obj_view</object>

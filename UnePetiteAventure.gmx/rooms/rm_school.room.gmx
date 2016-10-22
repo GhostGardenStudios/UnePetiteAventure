@@ -88,6 +88,7 @@
     <instance objName="obj_bed_hospital_teleport" x="444" y="639" name="inst_00B3C260" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_skyleirek" x="697" y="398" name="inst_E664A1C0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_schoolsong" x="236" y="194" name="inst_C08BF7EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_extra" x="229" y="258" name="inst_D82A4FCC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>

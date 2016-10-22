@@ -248,7 +248,7 @@
     <instance objName="obj_sand" x="783" y="971" name="inst_EB800DA4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_sand" x="698" y="1008" name="inst_54602CF9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_bed_ocean_teleport" x="739" y="996" name="inst_F679078F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_rock1" x="685" y="1030" name="inst_07668249" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_rock1" x="685" y="1024" name="inst_07668249" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_bubbles" x="795" y="1015" name="inst_1B678186" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_bubbles" x="675" y="980" name="inst_C3203A27" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_forest_grass" x="120" y="870" name="inst_2739DAB1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -311,6 +311,7 @@
     <instance objName="obj_forest_grass" x="925" y="870" name="inst_56ACE818" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_forest_grass" x="190" y="795" name="inst_444B382D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_forest_grass" x="70" y="870" name="inst_38F5BC58" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_extra" x="325" y="265" name="inst_D7167807" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>

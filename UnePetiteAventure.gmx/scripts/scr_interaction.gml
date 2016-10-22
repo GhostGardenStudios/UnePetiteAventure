@@ -1,7 +1,7 @@
 ///Check for enter key
 
 
-if (keyboard_check_pressed(vk_enter)) 
+if (keyboard_check_pressed(vk_space)) 
 {
     str="";
     if (place_meeting(x+20,y+20,obj_table)) {
@@ -126,7 +126,16 @@ if (keyboard_check_pressed(vk_enter))
 if (show_dialogue)
 {
        draw_set_font(SB_WakeFont);
-       draw_set_colour(c_white);
-       draw_text(300,500,str);     
+       draw_set_colour(c_white); 
+
+// placement of text depending on whether fullscreen or not
+              
+       if window_get_fullscreen()
+   {
+    draw_text(600,1000,str);
+   }
+else    {
+    draw_text(300,500,str);
+   }  
 
 }

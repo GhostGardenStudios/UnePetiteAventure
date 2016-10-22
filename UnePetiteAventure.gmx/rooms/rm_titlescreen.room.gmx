@@ -78,6 +78,7 @@
     <instance objName="obj_star1" x="896" y="384" name="inst_DCB323E6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_star1" x="864" y="0" name="inst_3AF98B05" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_star1" x="576" y="288" name="inst_FBF7D439" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_extra" x="96" y="224" name="inst_765F2B32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

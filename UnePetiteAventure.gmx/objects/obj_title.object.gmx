@@ -28,14 +28,14 @@
             <string>///Press Enter to Start Dreaming
 draw_set_colour(c_black);
 draw_set_font(WakeFont);
-draw_text(room_width / 2 , room_height * .75, "press enter to start dreaming");
+draw_text(room_width / 2 , room_height * .75, "press space to start dreaming");
 draw_set_halign(fa_center);
 </string>
           </argument>
         </arguments>
       </action>
     </event>
-    <event eventtype="9" enumb="13">
+    <event eventtype="9" enumb="32">
       <action>
         <libid>1</libid>
         <id>603</id>
