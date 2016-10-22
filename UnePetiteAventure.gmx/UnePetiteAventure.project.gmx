@@ -143,7 +143,8 @@
     <font>fonts\WakeFont</font>
     <font>fonts\TitleFont</font>
     <font>fonts\S_WakeFont</font>
-    <font>fonts\SB_WakeFont</font>
+    <font>fonts\ft_dialog</font>
+    <font>fonts\ft_fsdialog</font>
     <font>fonts\MornFont</font>
   </fonts>
   <objects name="objects">

@@ -125,17 +125,17 @@ if (keyboard_check_pressed(vk_space))
 
 if (show_dialogue)
 {
-       draw_set_font(SB_WakeFont);
        draw_set_colour(c_white); 
-
-// placement of text depending on whether fullscreen or not
+// font and placement of text depending on whether fullscreen or not
               
        if window_get_fullscreen()
-   {
-    draw_text(600,1000,str);
-   }
-else    {
-    draw_text(300,500,str);
-   }  
+           {
+            draw_set_font(ft_fsdialog);
+            draw_text(600,1000,str);
+           }
+        else    {
+            draw_text(300,500,str);
+            draw_set_font(ft_dialog);
+           }
 
 }
